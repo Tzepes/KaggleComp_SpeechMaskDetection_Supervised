@@ -1,0 +1,9 @@
+[project]
+name = "kagglecomp-proj1-supervised"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.4.0",
+    "kaggle>=2.2.5",
+    "kagglehub>=1.0.3",
+]
